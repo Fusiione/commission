@@ -1,4 +1,4 @@
-        var menu = ['', '', '', '', '', '', '', '', '', '']
+        var menu = ['', '', '', '', '', '', '', '', '', '', '']
         var mySwiper = new Swiper('.swiper-container', {
             // If we need pagination
             pagination: {
